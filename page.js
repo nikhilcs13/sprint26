@@ -7,6 +7,7 @@ export default function Home() {
         <div>prahladu cant make changes</div>
         <div>dhanush is missing</div>
         <div>I am here</div>
+        <div>i am the goat</div>
     </div>
   );
 }
