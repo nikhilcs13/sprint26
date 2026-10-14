@@ -8,6 +8,7 @@ export default function Home() {
         <div>dhanush is missing</div>
         <div>I am here</div>
         <div>i am the goat</div>
+        <div>i am the goatxx</div>
     </div>
   );
 }
